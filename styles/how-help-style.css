@@ -1,0 +1,17 @@
+.help-div{
+    display: flex;
+    padding: 40px 20px 40px 20px;
+}
+
+.slight-dark-back{
+    background-color: #1E2025;
+}
+
+.reverse-text{
+    text-align: right;
+}
+
+.help-image{
+    width: 15vw;
+    margin: 20px;
+}
